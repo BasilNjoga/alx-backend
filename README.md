@@ -1,1 +1,1 @@
-This is a repository on alx backend concepts
+This is a an assignments on backend exercises
